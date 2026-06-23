@@ -1,0 +1,15 @@
+# Node / Vite
+node_modules/
+dist/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+/.vite
+/.cache
+
+# OS artefacts
+.DS_Store
+Thumbs.db
+
+# Secrets – never commit these
+.env
